@@ -103,7 +103,7 @@
       "vitest related --run --silent=true"
     ],
     "*.{ts,tsx,js,jsx,json}": [
-      "biome check"
+      "biome check --no-errors-on-unmatched"
     ]
   }
 }
