@@ -101,7 +101,7 @@ export default function Footer() {
 
 					<div className="flex items-center gap-2">
 						<a
-							href="https://github.com/ePotok22/react-boilerplate"
+							href="https://github.com/fff-fm-404/react-boilerplate"
 							target="_blank"
 							rel="noreferrer"
 							className="ds-footer-social"

@@ -55,7 +55,7 @@
 
 ```bash
 # Clone
-git clone https://github.com/ePotok22/react-boilerplate.git
+git clone https://github.com/fff-fm-404/react-boilerplate.git
 cd react-boilerplate
 
 # Install
@@ -435,6 +435,6 @@ import { useAuthStore } from "@/stores/auth.store";
 
 <div align="center">
 
-**Built with 💚 by [ePotok22](https://github.com/ePotok22)**
+**Built with 💚 by [fff-fm-404](https://github.com/fff-fm-404)**
 
 </div>

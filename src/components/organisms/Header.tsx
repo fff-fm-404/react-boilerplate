@@ -55,7 +55,7 @@ export default function Header() {
 
 				<div className="ml-auto flex items-center gap-1 sm:ml-0 sm:gap-1.5">
 					<a
-						href="https://github.com/ePotok22/react-boilerplate"
+						href="https://github.com/fff-fm-404/react-boilerplate"
 						target="_blank"
 						rel="noreferrer"
 						className="ds-header-icon-btn hidden sm:flex"
